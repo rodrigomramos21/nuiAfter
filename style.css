@@ -138,5 +138,27 @@ h3{
     
   }
 }
+@media only screen and (min-width: 1280px) and (min-height: 1024px) {
+  
+  .placar{
+    margin-left: 11%;
+ 
+  }
+  .score{
+    margin-left: 23%;
+  }
+  .teams{
+    margin-left: 21%;
+    gap: 10%;
+    width: 50%;
+  }
+  .round{
+    position: absolute;
+    margin-top: 25px;
+    color:white;
+    margin-left: 5%;
+    
+  }
+}
   
 
